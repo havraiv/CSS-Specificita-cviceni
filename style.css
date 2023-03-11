@@ -1,0 +1,13 @@
+.card-body .card-title {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.card-body {
+  background-color: #fff0ee;
+}
+
+.btn.btn-primary {
+  background-color: #b10849;
+  border: #b10849;
+}
